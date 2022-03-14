@@ -5,3 +5,5 @@ Dodanie nowej linijki
 
 
 jeszcze linijka
+
+tu będzie pewnie konflikt!
