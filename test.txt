@@ -8,3 +8,5 @@ jeszcze linijka
 
 
 dodaje nowe zminy
+
+tu będzie pewnie konflikt!
